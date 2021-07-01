@@ -4,3 +4,13 @@ theme: jekyll-theme-time-machine
 
 - name: Generate Documentation
   uses: vargiuscuola/genshdoc@v1.0
+  
+  - name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
+  uses: fastai/fastpages@v2.1.5
+
+- name: Ponicode DogString: Automatic AI-based Docstring generation
+  uses: ponicode/dogstring-action@v0.1.2-beta
+  
+- name: Build your docs with DocsAsCode
+  uses: docascod/actions-build@1.0
+
