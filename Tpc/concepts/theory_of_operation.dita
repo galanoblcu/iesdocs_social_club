@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "topic.dtd">
+<topic id="theory_of_operation">
+  <title>Theory of Operation</title>
+  <shortdesc>Blahblahblah</shortdesc>
+  
+  <body>
+    <simpletable>
+      <sthead>
+        <stentry>
+          <p>Header1</p>
+        </stentry>
+        <stentry>
+          <p>Header2</p>
+        </stentry>
+      </sthead>
+      <strow>
+        <stentry>
+          <p>C11</p>
+        </stentry>
+        <stentry>
+          <p>C12</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>
+          <p>C21</p>
+        </stentry>
+        <stentry>
+          <p>C22</p>
+        </stentry>
+      </strow>
+    </simpletable>
+    <p>Modules.…..</p>
+    <ul id="ul_enh_5gf_dqb">
+      <li>
+        <p>PXIe-1234</p>
+      </li>
+      <li>
+        <p>PXIe-1235</p>
+      </li>
+      <li>
+        <p>PXIe-1237</p>
+      </li>
+    </ul>
+  </body>
+</topic>
