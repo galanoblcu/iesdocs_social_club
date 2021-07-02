@@ -1,0 +1,32 @@
+[OPTIONS]
+
+Auto Index=Yes
+Binary TOC=Yes
+Compatibility=1.1 or later
+
+Compiled file=OIUG.chm
+Contents file=OIUG.hhc
+Default Window=Main
+Full-text search=Yes
+Display compile progress=No
+Index file=OIUG.hhk
+Binary Index=No
+Language=0x0409 English (United States)
+Default topic=concepts/overview.html
+Title=OI User Guide
+    
+[WINDOWS]
+Main="OI User Guide","OIUG.hhc","OIUG.hhk","concepts/overview.html","concepts/overview.html",,,,,0x72520,,0x70380E,,,,,,,,0
+    
+
+
+[FILES]
+concepts/overview.html
+references/references.html
+tasks/postrequisites.html
+tasks/prerequisites.html
+tasks/procedures.html
+
+
+[INFOTYPES]
+

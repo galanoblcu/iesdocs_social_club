@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "http://docs.oasis-open.org/dita/v1.1/OS/dtd/map.dtd">
+
+<map>
+  <title>OI User Guide</title>
+  <topicref href="concepts/overview.md" format="markdown"/>
+  <topicref href="tasks/prerequisites.md" format="markdown"/>
+  <topicref href="tasks/procedures.md" format="markdown"/>
+  <topicref href="tasks/postrequisites.md" format="markdown"/>
+  <topicref href="references/references.md" format="markdown"/>
+  <reltable>
+    <relrow>
+      <relcell>
+        <topicref href="concepts/overview.md" format="markdown"/>
+      </relcell>
+      <relcell>
+        <topicref href="tasks/procedures.md" format="markdown"/>
+      </relcell>
+    </relrow>
+  </reltable>
+</map>

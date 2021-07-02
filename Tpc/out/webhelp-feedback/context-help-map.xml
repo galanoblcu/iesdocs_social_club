@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map productID="oxy-webhelp" productVersion="1.0">
+   <appContext helpID="overview" path="concepts/overview.html"/>
+   <appContext helpID="prerequisites" path="tasks/prerequisites.html"/>
+   <appContext helpID="procedures" path="tasks/procedures.html"/>
+   <appContext helpID="postrequisites" path="tasks/postrequisites.html"/>
+   <appContext helpID="references" path="references/references.html"/>
+   <appContext helpID="overview" path="concepts/overview.html"/>
+   <appContext helpID="procedures" path="tasks/procedures.html"/>
+</map>
