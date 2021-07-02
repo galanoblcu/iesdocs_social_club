@@ -24,7 +24,7 @@ Note that since most of the tests were done in Gitlab, so the majority part of t
 - If you are working with pure Markdown, the Preview mode in almost every editor allows you to check the actual effect. Be careful with the Markdown syntax. See: https://www.markdownguide.org/getting-started/ and https://learnxinyminutes.com/docs/markdown/.
 
 ## Tables in Markdwon
-Table creation and maintenance could be annoying even after months of experience with MD. There are some handly tools you can use to speed up the table creation or modification, aka. Table Generator. See https://jakebathman.github.io/Markdown-Table-Generator/ and https://www.tablesgenerator.com/markdown_tables.
+Table creation and maintenance could be annoying even after months of experience with MD. There are some handy tools you can use to speed up the table creation or modification, aka. Table Generator. See https://jakebathman.github.io/Markdown-Table-Generator/ and https://www.tablesgenerator.com/markdown_tables.
 
 ## Contact
 galano.han@ni.com 
