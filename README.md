@@ -1,6 +1,7 @@
 # IESDocs Social Club
 This is a public repository for doc migration test in IES Docs team. Take it as a playground for fun!!!
-*There is no limit on using public repository of Github either from GitKraken or Github desktop/webpage. *
+
+*There is no limit on using public repository of Github either from GitKraken or Github desktop/webpage.*
 
 .....
 
